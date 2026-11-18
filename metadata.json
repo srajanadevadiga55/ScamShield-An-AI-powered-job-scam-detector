@@ -1,0 +1,8 @@
+{
+  "name": "ScamShield — AI-Powered Job Scam Detection Platform",
+  "description": "A cybersecurity platform that helps job seekers detect fake job offers, fraudulent recruiters, phishing emails, and suspicious application URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
